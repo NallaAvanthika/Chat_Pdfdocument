@@ -1,0 +1,7 @@
+.upload-pdf button {
+  background-color: #fff;
+  border: 1px solid #333;
+  padding: 8px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
